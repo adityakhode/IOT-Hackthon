@@ -3,7 +3,7 @@ you can learn how to interface LDR, Touch Sensor, DC Moter(3volt) and RGB leds t
 
 HOW to connect esp to Hotspot 
 
-          and 
+and 
           
 how to make ESP as an HOTSPOT
 
