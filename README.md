@@ -2,7 +2,9 @@ This projet folder contains the esp webserver tutorial I have used simple simple
 you can learn how to interface LDR, Touch Sensor, DC Moter(3volt) and RGB leds to esp and can control or display it to web page
 
 HOW to connect esp to Hotspot 
+
           and 
+          
 how to make ESP as an HOTSPOT
 
 
